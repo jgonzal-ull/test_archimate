@@ -9,8 +9,8 @@
       name="Group"
       textAlignment="1">
     <bounds
-        x="48"
-        y="96"
+        x="12"
+        y="240"
         width="400"
         height="140"/>
   </children>
