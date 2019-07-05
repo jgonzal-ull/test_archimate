@@ -13,5 +13,17 @@
         y="240"
         width="400"
         height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="f01a53d7-54eb-4e98-b51e-10aea7ce8f4e">
+      <bounds
+          x="85"
+          y="44"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_04c3a24b-142e-4b3a-b66d-7e861039a36c.xml#04c3a24b-142e-4b3a-b66d-7e861039a36c"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
