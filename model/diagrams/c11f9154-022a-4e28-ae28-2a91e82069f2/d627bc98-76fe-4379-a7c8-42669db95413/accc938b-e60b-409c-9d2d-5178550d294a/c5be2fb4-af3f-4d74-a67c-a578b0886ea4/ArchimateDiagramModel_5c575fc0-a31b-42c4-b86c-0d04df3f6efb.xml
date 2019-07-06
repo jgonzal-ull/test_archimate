@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EBAU"
+    name="EBAU - Detalle"
     id="5c575fc0-a31b-42c4-b86c-0d04df3f6efb">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -200,7 +200,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="841b305f-ed3d-4b0d-b872-e52822857a0f">
+        id="841b305f-ed3d-4b0d-b872-e52822857a0f"
+        fillColor="#ff0000">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="7467338b-735f-48ac-98f9-04f4ac786d3f"
@@ -222,7 +223,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5cc285ae-f453-4ada-930d-fd28e9124e54"
-        targetConnections="ce5ad411-b075-4e31-8c72-b8775271b7b6 bed5eb14-4d63-4f27-a758-0dbb99e1efdf">
+        targetConnections="ce5ad411-b075-4e31-8c72-b8775271b7b6 bed5eb14-4d63-4f27-a758-0dbb99e1efdf"
+        fillColor="#ff0000">
       <bounds
           x="108"
           y="936"
