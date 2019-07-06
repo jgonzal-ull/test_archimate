@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Matrícula de la EBAU"
-    id="450f5917-c622-426d-9bd8-eabea95fe492"/>
+    id="450f5917-c622-426d-9bd8-eabea95fe492">
+  <properties
+      key="Proceso - duración - días naturales"
+      value="10"/>
+  <properties
+      key="Proceso - duracion - días hábiles"/>
+</archimate:BusinessProcess>

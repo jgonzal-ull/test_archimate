@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Emisión de las Tarjetas de Notas EBAU"
-    id="0dd8c911-1de1-41dd-bba5-0db4271f80c8"/>
+    id="0dd8c911-1de1-41dd-bba5-0db4271f80c8">
+  <properties
+      key="Proceso - duracion - días hábiles"
+      value="1"/>
+</archimate:BusinessProcess>

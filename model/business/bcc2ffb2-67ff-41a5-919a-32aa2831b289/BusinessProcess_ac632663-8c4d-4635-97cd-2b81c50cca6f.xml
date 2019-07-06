@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Exámenes de la EBAU"
-    id="ac632663-8c4d-4635-97cd-2b81c50cca6f"/>
+    id="ac632663-8c4d-4635-97cd-2b81c50cca6f">
+  <properties
+      key="Proceso - duracion - días hábiles"
+      value="3"/>
+</archimate:BusinessProcess>
