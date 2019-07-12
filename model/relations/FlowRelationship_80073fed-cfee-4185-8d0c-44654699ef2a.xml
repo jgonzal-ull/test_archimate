@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="¿Se puede comunicar?"
+    id="80073fed-cfee-4185-8d0c-44654699ef2a">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_8ad428aa-3318-47e1-82e1-5dad209616b1.xml#8ad428aa-3318-47e1-82e1-5dad209616b1"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_eec878b7-f5f4-44af-aad9-ab07ad7d4c98.xml#eec878b7-f5f4-44af-aad9-ab07ad7d4c98"/>
+</archimate:FlowRelationship>

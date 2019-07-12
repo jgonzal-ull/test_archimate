@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="¿Datos personales?"
+    id="cf3832e2-568c-4a55-b83d-3835383ace13">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4b27122a-f400-43e8-b4a3-68b5e7fb5ab2.xml#4b27122a-f400-43e8-b4a3-68b5e7fb5ab2"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_705e561a-ad75-460b-b2fc-356fe7bee713.xml#705e561a-ad75-460b-b2fc-356fe7bee713"/>
+</archimate:FlowRelationship>
