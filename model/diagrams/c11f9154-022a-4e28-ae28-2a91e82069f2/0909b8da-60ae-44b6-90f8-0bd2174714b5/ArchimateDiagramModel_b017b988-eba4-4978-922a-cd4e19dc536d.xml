@@ -490,6 +490,17 @@
           xsi:type="archimate:BusinessEvent"
           href="BusinessEvent_992df11c-42ed-44ff-b6d7-ed0fdc2d3e1a.xml#992df11c-42ed-44ff-b6d7-ed0fdc2d3e1a"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="cde1fe2f-e1ea-4630-9c23-aaae0530241f"
+        textAlignment="1"
+        content="¿Cómo identificamos el servicio prestado?&#xD;&#xA;El inicio y fin de proceso ¿las cajas de distinto color?&#xD;&#xA;El inicio y fin de proceso deben ir fuera de la caja de proceso pero no lo permite la caja de &quot;vista de grupo&quot; ">
+      <bounds
+          x="348"
+          y="47"
+          width="145"
+          height="242"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_67e5ca5e-f54e-400c-b70b-71e4934b95f2.xml#67e5ca5e-f54e-400c-b70b-71e4934b95f2"/>
