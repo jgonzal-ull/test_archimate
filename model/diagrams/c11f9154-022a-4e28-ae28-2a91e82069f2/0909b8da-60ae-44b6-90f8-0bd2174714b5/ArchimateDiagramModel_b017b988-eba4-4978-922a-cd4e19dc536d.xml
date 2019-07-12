@@ -5,6 +5,17 @@
     id="b017b988-eba4-4978-922a-cd4e19dc536d">
   <children
       xsi:type="archimate:DiagramModelGroup"
+      id="3a44da86-f3c6-4ab4-ab7f-ebcd55fa6238"
+      name="Rol interno"
+      textAlignment="1">
+    <bounds
+        x="1044"
+        y="-59"
+        width="204"
+        height="960"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
       id="5723cc57-d778-40dc-9a5e-6e9174871a9d"
       name="Interfaces de negocio internos"
       textAlignment="1">
