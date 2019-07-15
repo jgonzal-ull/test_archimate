@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="¿Registro por la AEPD?"
+    id="ded22c63-2e30-4d93-85c8-4f217e4ec5d1">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_974da1c5-8aa8-4058-b68a-536bad5a347e.xml#974da1c5-8aa8-4058-b68a-536bad5a347e"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_b12e552d-03e0-4f24-bd14-df9b79f2fbd2.xml#b12e552d-03e0-4f24-bd14-df9b79f2fbd2"/>
+</archimate:FlowRelationship>

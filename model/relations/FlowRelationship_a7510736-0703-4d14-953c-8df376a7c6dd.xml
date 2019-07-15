@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="¿Conformidad?"
+    id="a7510736-0703-4d14-953c-8df376a7c6dd">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_fc46f010-03fa-48f5-8091-c858692e7626.xml#fc46f010-03fa-48f5-8091-c858692e7626"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_c8b79c43-fea9-4e09-9567-7dbfc144d3c9.xml#c8b79c43-fea9-4e09-9567-7dbfc144d3c9"/>
+</archimate:FlowRelationship>
