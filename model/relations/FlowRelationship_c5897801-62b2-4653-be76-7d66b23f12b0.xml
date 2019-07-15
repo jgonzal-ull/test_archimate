@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="¿validar?"
+    id="c5897801-62b2-4653-be76-7d66b23f12b0">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4a3d5f91-386b-4f7c-ac73-8c20e201f100.xml#4a3d5f91-386b-4f7c-ac73-8c20e201f100"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_67cb6c34-7c94-4bf6-af1f-448e73cffc7d.xml#67cb6c34-7c94-4bf6-af1f-448e73cffc7d"/>
+</archimate:FlowRelationship>
