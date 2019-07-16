@@ -74,15 +74,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="a80d2df6-389e-45dd-9d90-61e9c4f36b3e"
-        source="011efd91-54da-4dcf-9964-1dbdb0aa8a8a"
-        target="3728c70b-2289-4ee6-b95c-7e971eb02739">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_3e39f4f9-52dc-4385-a86f-c827d92019bb.xml#3e39f4f9-52dc-4385-a86f-c827d92019bb"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="5be74249-4b31-4f03-8f85-878daff3a7d7"
         source="011efd91-54da-4dcf-9964-1dbdb0aa8a8a"
         target="db6114e3-4a1e-4d76-9b59-3774d2d0bc6a">
@@ -116,6 +107,15 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_d6500796-7576-4bb9-9504-e957a9976345.xml#d6500796-7576-4bb9-9504-e957a9976345"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="a80d2df6-389e-45dd-9d90-61e9c4f36b3e"
+        source="011efd91-54da-4dcf-9964-1dbdb0aa8a8a"
+        target="3728c70b-2289-4ee6-b95c-7e971eb02739">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_3e39f4f9-52dc-4385-a86f-c827d92019bb.xml#3e39f4f9-52dc-4385-a86f-c827d92019bb"/>
     </sourceConnections>
     <bounds
         x="336"
@@ -169,7 +169,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3728c70b-2289-4ee6-b95c-7e971eb02739"
-        targetConnections="2d55373a-94f5-4c07-b982-e5d0a289a250 a464fedc-b7f4-4c11-affe-ad1364ff7b56 a80d2df6-389e-45dd-9d90-61e9c4f36b3e">
+        targetConnections="a80d2df6-389e-45dd-9d90-61e9c4f36b3e 2d55373a-94f5-4c07-b982-e5d0a289a250 a464fedc-b7f4-4c11-affe-ad1364ff7b56">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="e8dd36c8-d773-4e3a-9440-ddfb9fd00084"

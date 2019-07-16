@@ -46,15 +46,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="f24cd61b-02ca-4859-ad32-425491e05432"
-        source="6f906ec6-f674-48aa-8c2c-c874b22f2428"
-        target="a3c16b3f-22fc-492e-b52c-03d1805c2d68">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_542362f7-132f-46e2-bc33-dc33f147fc4d.xml#542362f7-132f-46e2-bc33-dc33f147fc4d"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="c4165921-6ec8-4bc6-bd6b-bc4af7e5ff55"
         source="6f906ec6-f674-48aa-8c2c-c874b22f2428"
         target="91e6cb08-8aed-4f21-8544-a55cb283bab6">
@@ -224,6 +215,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_8283cc02-383b-4e3a-850a-2eea711d7bcf.xml#8283cc02-383b-4e3a-850a-2eea711d7bcf"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f24cd61b-02ca-4859-ad32-425491e05432"
+        source="6f906ec6-f674-48aa-8c2c-c874b22f2428"
+        target="a3c16b3f-22fc-492e-b52c-03d1805c2d68">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_542362f7-132f-46e2-bc33-dc33f147fc4d.xml#542362f7-132f-46e2-bc33-dc33f147fc4d"/>
+    </sourceConnections>
     <bounds
         x="420"
         y="60"
@@ -298,7 +298,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a3c16b3f-22fc-492e-b52c-03d1805c2d68"
-        targetConnections="f24cd61b-02ca-4859-ad32-425491e05432 30371e6f-256d-4fc9-a802-cbffb164bae8 c3ea0afe-a944-4ac7-af05-4defc672efba">
+        targetConnections="30371e6f-256d-4fc9-a802-cbffb164bae8 f24cd61b-02ca-4859-ad32-425491e05432 c3ea0afe-a944-4ac7-af05-4defc672efba">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="5fab51ca-d7cc-4c25-80d1-e82dc617e196"
