@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="¿Datos externos?"
+    id="621848f7-8637-41b8-a670-ecc18b988832">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_90256ee1-5e96-4269-aee0-82d792e1cdea.xml#90256ee1-5e96-4269-aee0-82d792e1cdea"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_c729335f-269e-422c-815a-3518172468f3.xml#c729335f-269e-422c-815a-3518172468f3"/>
+</archimate:FlowRelationship>
