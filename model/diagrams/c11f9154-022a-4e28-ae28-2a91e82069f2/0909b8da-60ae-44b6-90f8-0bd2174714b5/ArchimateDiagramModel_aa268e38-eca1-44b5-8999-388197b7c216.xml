@@ -959,10 +959,10 @@
             href="FlowRelationship_0c01f7a6-8da2-4ade-a07f-6584ff3f8ff0.xml#0c01f7a6-8da2-4ade-a07f-6584ff3f8ff0"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="12"
           y="1224"
-          width="120"
-          height="55"/>
+          width="144"
+          height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessInterface"
           href="BusinessInterface_397e4419-afa9-4283-b07e-478b43a89fa1.xml#397e4419-afa9-4283-b07e-478b43a89fa1"/>

@@ -58,10 +58,10 @@
             href="FlowRelationship_6367ca91-4ff1-4a52-8db8-15cf847815f4.xml#6367ca91-4ff1-4a52-8db8-15cf847815f4"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="24"
           y="864"
-          width="120"
-          height="55"/>
+          width="157"
+          height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessInterface"
           href="BusinessInterface_397e4419-afa9-4283-b07e-478b43a89fa1.xml#397e4419-afa9-4283-b07e-478b43a89fa1"/>
