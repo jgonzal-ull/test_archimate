@@ -702,6 +702,17 @@
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_2428971d-ccd7-470c-8f73-808550a628d8.xml#2428971d-ccd7-470c-8f73-808550a628d8"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="7b3bc8d4-83c9-4eee-85b1-b1cd71b4b3db"
+        textAlignment="1"
+        content="Relacionar con ULL la fase de notificación y solicitud de información extra, así como el resultado de la evaluación.&#xD;&#xA;¿Se relaciona con alguna fase de procedimiento de modifica o con la caja de modifica?">
+      <bounds
+          x="130"
+          y="204"
+          width="185"
+          height="119"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
