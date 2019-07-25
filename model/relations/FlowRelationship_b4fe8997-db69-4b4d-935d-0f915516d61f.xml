@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="¿son sustanciales?"
+    id="b4fe8997-db69-4b4d-935d-0f915516d61f">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a24018dd-1acc-4d2f-bab2-910fd4b7d25e.xml#a24018dd-1acc-4d2f-bab2-910fd4b7d25e"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_296bb754-4b5b-4d60-96b4-f6a36e26249b.xml#296bb754-4b5b-4d60-96b4-f6a36e26249b"/>
+</archimate:FlowRelationship>
