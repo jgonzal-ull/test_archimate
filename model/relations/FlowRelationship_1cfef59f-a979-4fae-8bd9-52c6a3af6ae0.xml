@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="¿El profesor está de acuerdo?"
+    id="1cfef59f-a979-4fae-8bd9-52c6a3af6ae0">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a65b5160-16c2-498a-b012-207564478afc.xml#a65b5160-16c2-498a-b012-207564478afc"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_d977cac1-74d9-40f6-ac86-6ea8d04f78bd.xml#d977cac1-74d9-40f6-ac86-6ea8d04f78bd"/>
+</archimate:FlowRelationship>
